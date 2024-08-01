@@ -1,4 +1,4 @@
-# NapCat-Docker
+# NapCat
 
 [DockerHub](https://hub.docker.com/r/mlikiowa/napcat-docker)
 
